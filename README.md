@@ -1,4 +1,5 @@
-# senai-versoes-colaboracoes
-Teste de aprendizagem curso senai
+SENAI - Atividade versionamento
 
-Readme de exemplo. Somente demonstração.
+Aprender a gerenciar conflitos no versionamento
+
+Reorganizando atividades.

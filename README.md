@@ -3,4 +3,6 @@ Teste de aprendizagem curso senai
 
 Readme de exemplo. Somente demonstração.
 
+
 lembrei do comando: git commit
+Lembrei do comando: git status
